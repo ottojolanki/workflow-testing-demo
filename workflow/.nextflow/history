@@ -1,0 +1,14 @@
+2024-04-03 12:42:42	-	scruffy_mirzakhani	-	d01a7cf85c9f48c471deb5c22548d524	9dc679ca-64e5-4f9a-a4db-fddc6ac08df2	nextflow run create_file.nf
+2024-04-03 12:44:26	-	sad_pare	-	69392bbf98aadd4966ef4861cdf36550	a354b2a9-72e4-4b77-b007-c308db630fa1	nextflow run create_file.nf
+2024-04-03 12:49:11	-	disturbed_plateau	-	919b200371f06f91fbad143271a7151d	c07d0478-74fc-432a-a98f-72f5f0728c0f	nextflow run create_file.nf
+2024-04-03 12:52:58	-	elegant_babbage	-	5f3e7e282fe748bc47c77a731fa11276	0cf255da-5704-4b9a-9a55-7b713734d42f	nextflow run say_hello.nf
+2024-04-03 12:53:57	-	hungry_brazil	-	5f3e7e282fe748bc47c77a731fa11276	6933e5bc-b487-476d-80c2-12e24489366b	nextflow ./say_hello.nf
+2024-04-03 12:56:04	-	small_ride	-	5f3e7e282fe748bc47c77a731fa11276	963bd4f7-2b3b-403a-a783-c8fe60bc2aa5	nextflow run say_hello.nf
+2024-04-03 13:08:02	-	loving_hawking	-	5f3e7e282fe748bc47c77a731fa11276	e95bc1ef-4aba-4767-8f35-6947f6ebcbb1	nextflow run say_hello.nf
+2024-04-03 13:10:05	1.1s	goofy_hawking	OK	e6e34aafce241aa76df1763735657f97	77f5ef99-6dbd-4244-a1c7-255250b0de9b	nextflow run hello_world.nf
+2024-04-03 13:12:16	1.5s	festering_galileo	OK	e6e34aafce241aa76df1763735657f97	4400f912-b89b-47c8-829f-c9d9b30b9f59	nextflow run hello_world.nf
+2024-04-03 13:14:19	1.7s	amazing_maxwell	OK	e6e34aafce241aa76df1763735657f97	1b8a8419-535b-4016-8886-3450b2148e47	nextflow run hello_world.nf
+2024-04-03 13:14:31	1s	elated_boltzmann	OK	e6e34aafce241aa76df1763735657f97	0d27be6e-3e04-4e65-80be-8cb8f287aeb4	nextflow run hello_world.nf
+2024-04-03 13:24:00	952ms	chaotic_brown	OK	e6e34aafce241aa76df1763735657f97	f4811a70-e7df-4499-966e-feb7fcd76be8	nextflow run hello_world.nf --outdir test-output
+2024-04-03 13:25:30	1.7s	determined_stone	OK	e6e34aafce241aa76df1763735657f97	968353a1-ad28-4de7-aa1d-d2ad87a4988e	nextflow run hello_world.nf --outdir test-output
+2024-04-03 14:16:11	1.9s	compassionate_hugle	OK	f5244b19b4b08b322199aa095ea2c140	4bbf4a8d-9bfe-408e-909f-6a8dfcb50ba1	nextflow run hello_world.nf --outdir test-output

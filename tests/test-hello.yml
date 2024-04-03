@@ -1,7 +1,7 @@
 - name: test_hello_world
   tags:
     - unit
-  command: nextflow run hello
-  stdout:
-    contains:
-      - "Ciao world!"
+  command: nextflow run workflow/hello_world.nf --outdir test-output
+  files:
+    - path: "test-output/hello.txt"
+      md5sum: bea8252ff4e80f41719ea13cdf007273
