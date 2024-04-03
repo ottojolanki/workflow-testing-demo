@@ -1,0 +1,7 @@
+- name: test_hello_world
+  tags:
+    - unit
+  command: nextflow run hello
+  stdout:
+    contains:
+      - "Ciao world!"
