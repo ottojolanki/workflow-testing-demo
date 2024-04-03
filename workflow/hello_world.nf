@@ -1,5 +1,3 @@
-#!/usr/bin/env nextflow
-
 process say_hello {
     publishDir = [
         path: { "${params.outdir}/"}
